@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144712653058",
+    "project_id": "whatsapp-77937",
+    "storage_bucket": "whatsapp-77937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144712653058:android:34131d2cffac2b102b8a1b",
+        "android_client_info": {
+          "package_name": "com.gustavo.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144712653058-277ib8tujevgq7r9qscftlonm90of1j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eZkp6KL0XlfxuoJDjlHrsNQofyUb7xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144712653058-277ib8tujevgq7r9qscftlonm90of1j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
